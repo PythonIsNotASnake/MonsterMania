@@ -1,0 +1,24 @@
+<monster>
+	<image>images/biene.png</image>
+	<life>1000</life>
+	<attack>
+		<attackName>Stich</attackName>
+		<attackDmg>50</attackDmg>
+		<attackPoints>20</attackPoints>
+	</attack>
+	<attack>
+		<attackName>Rempler</attackName>
+		<attackDmg>70</attackDmg>
+		<attackPoints>10</attackPoints>
+	</attack>
+	<attack>
+		<attackName>Kopfnuss</attackName>
+		<attackDmg>90</attackDmg>
+		<attackPoints>5</attackPoints>
+	</attack>
+	<attack>
+		<attackName>Windschlag</attackName>
+		<attackDmg>150</attackDmg>
+		<attackPoints>2</attackPoints>
+	</attack>
+</monster>
